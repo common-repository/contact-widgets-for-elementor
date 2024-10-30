@@ -1,0 +1,102 @@
+@font-face {
+  font-family: 'wpexicon';
+  src:  url('fonts/wpexicon.eot?52iwyk');
+  src:  url('fonts/wpexicon.eot?52iwyk#iefix') format('embedded-opentype'),
+    url('fonts/wpexicon.ttf?52iwyk') format('truetype'),
+    url('fonts/wpexicon.woff?52iwyk') format('woff'),
+    url('fonts/wpexicon.svg?52iwyk#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="wpex-icon-"], [class*=" wpex-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'wpexicon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.wpex-icon-waze-full:before {
+  content: "\e904";
+}
+.wpex-icon-close:before {
+  content: "\e905";
+}
+.wpex-icon-sms-1:before {
+  content: "\e900";
+}
+.wpex-icon-sms-3:before {
+  content: "\e902";
+}
+.wpex-icon-facebook-messenger:before {
+  content: "\e903";
+}
+.wpex-icon-waze:before {
+  content: "\77";
+}
+.wpex-icon-sms-2:before {
+  content: "\e901";
+}
+.wpex-icon-close-2:before {
+  content: "\e906";
+}
+.wpex-icon-contact-icons:before {
+  content: "\e907";
+}
+/*Social Icons whidget BG*/
+.elementor-social-icon-sms{
+  background-color:#F0731E;
+  }
+.elementor-social-icon-wpex-icon-sms-1{
+	background-color:#F0731E;
+	}
+.elementor-social-icon-wpex-icon-sms-2{
+	background-color:#F0731E;
+	}
+.elementor-social-icon-wpex-icon-sms-3{
+	background-color:#F0731E;
+	}
+	.elementor-social-icon-wpex-icon-facebook-messenger{
+	background-color:#0078FF;
+	}
+  .elementor-social-icon-facebook-messenger{
+  background-color:#0078FF;
+  }
+  
+
+	
+
+.icon-default {
+	 transition: opacity 0.3s, transform 0.3s !important;
+}
+
+.icon-open {
+	transition: opacity 0.3s, transform 0.3s;
+	 transform: rotate(-180deg) scale(0.5) !important;
+	 opacity: 0;
+}
+
+#open{
+		position:absolute;
+}
+	
+.icon-close {
+	transition: opacity 0.3s, transform 0.8s;
+	 transform: rotate(0deg) scale(1) !important;
+	 opacity: 1;
+} 
+.icon-hide {
+	 transform: rotate(180deg) scale(0.5) !important;
+	 opacity: 0;
+	
+}
+
+
+

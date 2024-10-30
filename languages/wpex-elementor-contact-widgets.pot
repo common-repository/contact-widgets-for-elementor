@@ -1,0 +1,881 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Contact Widgets For Elementor\n"
+"POT-Creation-Date: 2019-07-24 10:05+0300\n"
+"PO-Revision-Date: 2019-06-24 21:32+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: contact-widgets-for-elementor.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#. translators: 1: Plugin name 2: Elementor
+#: contact-widgets-for-elementor.php:167
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: contact-widgets-for-elementor.php:168 contact-widgets-for-elementor.php:188
+#: contact-widgets-for-elementor.php:209 functions.php:51
+msgid "Contact Widgets For Elementor"
+msgstr ""
+
+#: contact-widgets-for-elementor.php:169 contact-widgets-for-elementor.php:189
+msgid "Elementor"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: contact-widgets-for-elementor.php:187 contact-widgets-for-elementor.php:208
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: contact-widgets-for-elementor.php:210
+msgid "PHP"
+msgstr ""
+
+#: functions.php:52
+msgid "The easiest way to add contact links to your elementor project"
+msgstr ""
+
+#: functions.php:53
+msgid ""
+"You are all set, open elementor and enjoy the new widgets (under \"contact "
+"Widgets\" category)"
+msgstr ""
+
+#: functions.php:54
+msgid "Video Tutorials will be available soom..."
+msgstr ""
+
+#: plugin.php:69
+msgid "Contact Widgets for elementor"
+msgstr ""
+
+#: plugin.php:69 plugin.php:106
+msgid "Contact Widgets"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:53
+msgid "Full Link Contact Icons"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:112
+msgid "Contact Icons"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:121 widgets/contact-icons-widget.php:440
+#: widgets/download-button.php:263 widgets/email-widget.php:116
+#: widgets/email-widget.php:361 widgets/full-link-image-box-widget.php:117
+#: widgets/full-link-image-box-widget.php:130
+#: widgets/full-link-image-box-widget.php:556 widgets/icon-toggle.php:110
+#: widgets/icon-toggle.php:206 widgets/link-button-widget.php:366
+#: widgets/messenger-widget.php:116 widgets/messenger-widget.php:324
+#: widgets/phone-widget.php:122 widgets/phone-widget.php:333
+#: widgets/sms-widget.php:116 widgets/sms-widget.php:349
+#: widgets/waze-widget.php:116 widgets/waze-widget.php:326
+#: widgets/whatsapp-widget.php:116 widgets/whatsapp-widget.php:343
+msgid "Icon"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:193
+#: widgets/full-link-image-box-widget.php:381
+#: widgets/link-button-widget.php:156
+msgid "Link Type"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:196
+#: widgets/full-link-image-box-widget.php:384
+#: widgets/link-button-widget.php:159
+msgid "Select"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:197 widgets/contact-icons-widget.php:214
+#: widgets/download-button.php:156 widgets/full-link-image-box-widget.php:385
+#: widgets/full-link-image-box-widget.php:401 widgets/icon-toggle.php:166
+#: widgets/link-button-widget.php:160 widgets/link-button-widget.php:177
+msgid "Link"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:198 widgets/contact-icons-widget.php:230
+#: widgets/email-widget.php:54 widgets/email-widget.php:308
+#: widgets/full-link-image-box-widget.php:386
+#: widgets/full-link-image-box-widget.php:417
+#: widgets/link-button-widget.php:161 widgets/link-button-widget.php:193
+msgid "Email"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:199
+#: widgets/full-link-image-box-widget.php:387
+#: widgets/link-button-widget.php:162
+msgid "Tel"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:200
+#: widgets/full-link-image-box-widget.php:388
+#: widgets/link-button-widget.php:163 widgets/sms-widget.php:54
+msgid "SMS"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:201
+#: widgets/full-link-image-box-widget.php:389
+#: widgets/link-button-widget.php:164
+msgid "WhatsApp"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:202
+#: widgets/full-link-image-box-widget.php:390
+#: widgets/link-button-widget.php:165
+msgid "Telegram"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:203
+#: widgets/full-link-image-box-widget.php:391
+#: widgets/link-button-widget.php:166
+msgid "Messenger"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:204
+#: widgets/full-link-image-box-widget.php:392
+#: widgets/link-button-widget.php:167 widgets/waze-widget.php:54
+msgid "Waze"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:223 widgets/download-button.php:158
+#: widgets/full-link-image-box-widget.php:409 widgets/icon-toggle.php:171
+#: widgets/link-button-widget.php:185
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:238 widgets/email-widget.php:310
+#: widgets/full-link-image-box-widget.php:425
+#: widgets/link-button-widget.php:201
+msgid "Your Email Address"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:245 widgets/contact-icons-widget.php:253
+#: widgets/email-widget.php:325 widgets/email-widget.php:327
+#: widgets/full-link-image-box-widget.php:432
+#: widgets/full-link-image-box-widget.php:440
+#: widgets/link-button-widget.php:208 widgets/link-button-widget.php:216
+msgid "Subject"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:260 widgets/contact-icons-widget.php:268
+#: widgets/email-widget.php:341 widgets/email-widget.php:343
+#: widgets/full-link-image-box-widget.php:447
+#: widgets/full-link-image-box-widget.php:455
+#: widgets/link-button-widget.php:223 widgets/link-button-widget.php:231
+msgid "Message"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:275
+#: widgets/full-link-image-box-widget.php:462
+#: widgets/link-button-widget.php:238 widgets/phone-widget.php:312
+#: widgets/sms-widget.php:312
+msgid "Phone Number"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:286
+#: widgets/full-link-image-box-widget.php:473
+#: widgets/link-button-widget.php:249 widgets/phone-widget.php:314
+#: widgets/sms-widget.php:314
+msgid "0501234567"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:293
+#: widgets/full-link-image-box-widget.php:480
+#: widgets/link-button-widget.php:256 widgets/whatsapp-widget.php:304
+msgid "Whatsapp Num"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:303
+#: widgets/full-link-image-box-widget.php:490
+#: widgets/link-button-widget.php:266 widgets/whatsapp-widget.php:306
+msgid "001501234567"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:311
+#: widgets/full-link-image-box-widget.php:498
+#: widgets/link-button-widget.php:274 widgets/sms-widget.php:329
+#: widgets/whatsapp-widget.php:322
+msgid "message"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:322
+#: widgets/full-link-image-box-widget.php:509
+#: widgets/link-button-widget.php:285 widgets/sms-widget.php:331
+#: widgets/whatsapp-widget.php:324
+msgid "Your message..."
+msgstr ""
+
+#: widgets/contact-icons-widget.php:329
+#: widgets/full-link-image-box-widget.php:516
+#: widgets/link-button-widget.php:292
+msgid "Your User Name"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:340
+#: widgets/full-link-image-box-widget.php:527
+#: widgets/link-button-widget.php:303 widgets/messenger-widget.php:306
+msgid "YourUserName"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:348
+#: widgets/full-link-image-box-widget.php:535
+#: widgets/link-button-widget.php:311
+msgid "Address"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:353
+#: widgets/full-link-image-box-widget.php:540
+#: widgets/link-button-widget.php:316 widgets/waze-widget.php:305
+#: widgets/waze-widget.php:307
+msgid "Your Address"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:364
+msgid "Social Icons"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:388 widgets/email-widget.php:151
+#: widgets/full-link-image-box-widget.php:166 widgets/icon-toggle.php:149
+#: widgets/messenger-widget.php:147 widgets/phone-widget.php:156
+#: widgets/sms-widget.php:155 widgets/waze-widget.php:149
+#: widgets/whatsapp-widget.php:147
+msgid "Shape"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:392
+msgid "Rounded"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:393 widgets/email-widget.php:155
+#: widgets/full-link-image-box-widget.php:170 widgets/icon-toggle.php:153
+#: widgets/messenger-widget.php:151 widgets/phone-widget.php:160
+#: widgets/sms-widget.php:159 widgets/waze-widget.php:153
+#: widgets/whatsapp-widget.php:151
+msgid "Square"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:394 widgets/email-widget.php:154
+#: widgets/full-link-image-box-widget.php:169 widgets/icon-toggle.php:152
+#: widgets/messenger-widget.php:150 widgets/phone-widget.php:159
+#: widgets/sms-widget.php:158 widgets/waze-widget.php:152
+#: widgets/whatsapp-widget.php:150
+msgid "Circle"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:403 widgets/download-button.php:224
+#: widgets/email-widget.php:578 widgets/full-link-image-box-widget.php:1081
+#: widgets/icon-toggle.php:178 widgets/link-button-widget.php:327
+#: widgets/messenger-widget.php:541 widgets/phone-widget.php:550
+#: widgets/sms-widget.php:565 widgets/waze-widget.php:543
+#: widgets/whatsapp-widget.php:560
+msgid "Alignment"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:407 widgets/download-button.php:228
+#: widgets/email-widget.php:173 widgets/email-widget.php:582
+#: widgets/full-link-image-box-widget.php:191
+#: widgets/full-link-image-box-widget.php:252
+#: widgets/full-link-image-box-widget.php:1085 widgets/icon-toggle.php:182
+#: widgets/link-button-widget.php:331 widgets/messenger-widget.php:169
+#: widgets/messenger-widget.php:545 widgets/phone-widget.php:178
+#: widgets/phone-widget.php:554 widgets/sms-widget.php:177
+#: widgets/sms-widget.php:569 widgets/waze-widget.php:171
+#: widgets/waze-widget.php:547 widgets/whatsapp-widget.php:169
+#: widgets/whatsapp-widget.php:564
+msgid "Left"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:411 widgets/download-button.php:232
+#: widgets/email-widget.php:586 widgets/full-link-image-box-widget.php:1089
+#: widgets/icon-toggle.php:186 widgets/link-button-widget.php:335
+#: widgets/messenger-widget.php:549 widgets/phone-widget.php:558
+#: widgets/sms-widget.php:573 widgets/waze-widget.php:551
+#: widgets/whatsapp-widget.php:568
+msgid "Center"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:415 widgets/download-button.php:236
+#: widgets/email-widget.php:181 widgets/email-widget.php:590
+#: widgets/full-link-image-box-widget.php:199
+#: widgets/full-link-image-box-widget.php:260
+#: widgets/full-link-image-box-widget.php:1093 widgets/icon-toggle.php:190
+#: widgets/link-button-widget.php:339 widgets/messenger-widget.php:177
+#: widgets/messenger-widget.php:553 widgets/phone-widget.php:186
+#: widgets/phone-widget.php:562 widgets/sms-widget.php:185
+#: widgets/sms-widget.php:577 widgets/waze-widget.php:179
+#: widgets/waze-widget.php:555 widgets/whatsapp-widget.php:177
+#: widgets/whatsapp-widget.php:572
+msgid "Right"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:429 widgets/download-button.php:309
+#: widgets/email-widget.php:133 widgets/full-link-image-box-widget.php:145
+#: widgets/icon-toggle.php:134 widgets/link-button-widget.php:412
+#: widgets/messenger-widget.php:129 widgets/phone-widget.php:138
+#: widgets/sms-widget.php:137 widgets/waze-widget.php:131
+#: widgets/whatsapp-widget.php:129
+msgid "View"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:448 widgets/email-widget.php:648
+#: widgets/email-widget.php:682 widgets/full-link-image-box-widget.php:1151
+#: widgets/full-link-image-box-widget.php:1185 widgets/messenger-widget.php:611
+#: widgets/messenger-widget.php:645 widgets/phone-widget.php:620
+#: widgets/phone-widget.php:654 widgets/sms-widget.php:635
+#: widgets/sms-widget.php:669 widgets/waze-widget.php:613
+#: widgets/waze-widget.php:647 widgets/whatsapp-widget.php:630
+#: widgets/whatsapp-widget.php:664
+msgid "Color"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:452
+msgid "Official Color"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:453
+msgid "Custom"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:461 widgets/contact-icons-widget.php:583
+#: widgets/email-widget.php:381 widgets/email-widget.php:423
+#: widgets/full-link-image-box-widget.php:582
+#: widgets/full-link-image-box-widget.php:633 widgets/icon-toggle.php:223
+#: widgets/icon-toggle.php:265 widgets/messenger-widget.php:344
+#: widgets/messenger-widget.php:386 widgets/phone-widget.php:353
+#: widgets/phone-widget.php:395 widgets/sms-widget.php:369
+#: widgets/sms-widget.php:411 widgets/waze-widget.php:346
+#: widgets/waze-widget.php:388 widgets/whatsapp-widget.php:363
+#: widgets/whatsapp-widget.php:405
+msgid "Primary Color"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:475 widgets/contact-icons-widget.php:598
+#: widgets/email-widget.php:398 widgets/email-widget.php:436
+#: widgets/full-link-image-box-widget.php:602
+#: widgets/full-link-image-box-widget.php:649 widgets/icon-toggle.php:240
+#: widgets/icon-toggle.php:278 widgets/messenger-widget.php:361
+#: widgets/messenger-widget.php:399 widgets/phone-widget.php:370
+#: widgets/phone-widget.php:408 widgets/sms-widget.php:386
+#: widgets/sms-widget.php:424 widgets/waze-widget.php:363
+#: widgets/waze-widget.php:401 widgets/whatsapp-widget.php:380
+#: widgets/whatsapp-widget.php:418
+msgid "Secondary Color"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:489 widgets/download-button.php:252
+#: widgets/email-widget.php:487 widgets/full-link-image-box-widget.php:709
+#: widgets/icon-toggle.php:306 widgets/link-button-widget.php:355
+#: widgets/messenger-widget.php:450 widgets/phone-widget.php:459
+#: widgets/sms-widget.php:475 widgets/waze-widget.php:452
+#: widgets/whatsapp-widget.php:469
+msgid "Size"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:506 widgets/download-button.php:477
+#: widgets/email-widget.php:504 widgets/full-link-image-box-widget.php:729
+#: widgets/icon-toggle.php:323 widgets/link-button-widget.php:579
+#: widgets/messenger-widget.php:467 widgets/phone-widget.php:476
+#: widgets/sms-widget.php:492 widgets/waze-widget.php:469
+#: widgets/whatsapp-widget.php:486
+msgid "Padding"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:534 widgets/email-widget.php:464
+#: widgets/email-widget.php:631 widgets/full-link-image-box-widget.php:683
+#: widgets/full-link-image-box-widget.php:820
+#: widgets/full-link-image-box-widget.php:1134 widgets/messenger-widget.php:427
+#: widgets/messenger-widget.php:594 widgets/phone-widget.php:436
+#: widgets/phone-widget.php:603 widgets/sms-widget.php:452
+#: widgets/sms-widget.php:618 widgets/waze-widget.php:429
+#: widgets/waze-widget.php:596 widgets/whatsapp-widget.php:446
+#: widgets/whatsapp-widget.php:613
+msgid "Spacing"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:561 widgets/download-button.php:457
+#: widgets/email-widget.php:553 widgets/full-link-image-box-widget.php:787
+#: widgets/icon-toggle.php:372 widgets/link-button-widget.php:559
+#: widgets/messenger-widget.php:516 widgets/phone-widget.php:525
+#: widgets/sms-widget.php:541 widgets/waze-widget.php:518
+#: widgets/whatsapp-widget.php:535
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:575
+msgid "Icon Hover"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:613 widgets/download-button.php:422
+#: widgets/link-button-widget.php:524
+msgid "Border Color"
+msgstr ""
+
+#: widgets/contact-icons-widget.php:628 widgets/download-button.php:436
+#: widgets/email-widget.php:452 widgets/full-link-image-box-widget.php:668
+#: widgets/full-link-image-box-widget.php:945 widgets/icon-toggle.php:294
+#: widgets/link-button-widget.php:538 widgets/messenger-widget.php:415
+#: widgets/phone-widget.php:424 widgets/sms-widget.php:440
+#: widgets/waze-widget.php:417 widgets/whatsapp-widget.php:434
+msgid "Hover Animation"
+msgstr ""
+
+#: widgets/download-button.php:55
+msgid "Download Button"
+msgstr ""
+
+#: widgets/download-button.php:101 widgets/link-button-widget.php:99
+msgid "Extra Small"
+msgstr ""
+
+#: widgets/download-button.php:102 widgets/link-button-widget.php:100
+msgid "Small"
+msgstr ""
+
+#: widgets/download-button.php:103 widgets/link-button-widget.php:101
+msgid "Medium"
+msgstr ""
+
+#: widgets/download-button.php:104 widgets/link-button-widget.php:102
+msgid "Large"
+msgstr ""
+
+#: widgets/download-button.php:105 widgets/link-button-widget.php:103
+msgid "Extra Large"
+msgstr ""
+
+#: widgets/download-button.php:121 widgets/download-button.php:338
+#: widgets/link-button-widget.php:119 widgets/link-button-widget.php:440
+msgid "Button"
+msgstr ""
+
+#: widgets/download-button.php:128 widgets/link-button-widget.php:126
+msgid "Type"
+msgstr ""
+
+#: widgets/download-button.php:132 widgets/email-widget.php:136
+#: widgets/full-link-image-box-widget.php:148 widgets/icon-toggle.php:137
+#: widgets/link-button-widget.php:130 widgets/messenger-widget.php:132
+#: widgets/phone-widget.php:141 widgets/sms-widget.php:140
+#: widgets/waze-widget.php:134 widgets/whatsapp-widget.php:132
+msgid "Default"
+msgstr ""
+
+#: widgets/download-button.php:133 widgets/link-button-widget.php:131
+msgid "Info"
+msgstr ""
+
+#: widgets/download-button.php:134 widgets/link-button-widget.php:132
+msgid "Success"
+msgstr ""
+
+#: widgets/download-button.php:135 widgets/link-button-widget.php:133
+msgid "Warning"
+msgstr ""
+
+#: widgets/download-button.php:136 widgets/link-button-widget.php:134
+msgid "Danger"
+msgstr ""
+
+#: widgets/download-button.php:145 widgets/link-button-widget.php:143
+msgid "Text"
+msgstr ""
+
+#: widgets/download-button.php:150 widgets/download-button.php:151
+#: widgets/link-button-widget.php:148 widgets/link-button-widget.php:149
+msgid "Click here"
+msgstr ""
+
+#: widgets/download-button.php:190
+msgid "File Download"
+msgstr ""
+
+#: widgets/download-button.php:192
+msgid "YES"
+msgstr ""
+
+#: widgets/download-button.php:193
+msgid "NO"
+msgstr ""
+
+#: widgets/download-button.php:201
+msgid "File Name"
+msgstr ""
+
+#: widgets/download-button.php:206
+msgid "example-file.type"
+msgstr ""
+
+#: widgets/download-button.php:240 widgets/email-widget.php:594
+#: widgets/full-link-image-box-widget.php:1097
+#: widgets/link-button-widget.php:343 widgets/messenger-widget.php:557
+#: widgets/phone-widget.php:566 widgets/sms-widget.php:581
+#: widgets/waze-widget.php:559 widgets/whatsapp-widget.php:576
+msgid "Justified"
+msgstr ""
+
+#: widgets/download-button.php:273 widgets/email-widget.php:168
+#: widgets/full-link-image-box-widget.php:186
+#: widgets/link-button-widget.php:376 widgets/messenger-widget.php:164
+#: widgets/phone-widget.php:173 widgets/sms-widget.php:172
+#: widgets/waze-widget.php:166 widgets/whatsapp-widget.php:164
+msgid "Icon Position"
+msgstr ""
+
+#: widgets/download-button.php:277 widgets/link-button-widget.php:380
+msgid "Before"
+msgstr ""
+
+#: widgets/download-button.php:278 widgets/link-button-widget.php:381
+msgid "After"
+msgstr ""
+
+#: widgets/download-button.php:289 widgets/link-button-widget.php:392
+msgid "Icon Spacing"
+msgstr ""
+
+#: widgets/download-button.php:318 widgets/link-button-widget.php:421
+msgid "Button ID"
+msgstr ""
+
+#: widgets/download-button.php:324 widgets/link-button-widget.php:427
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr ""
+
+#: widgets/download-button.php:326 widgets/link-button-widget.php:429
+msgid ""
+"Please make sure the ID is unique and not used elsewhere on the page this "
+"form is displayed. This field allows <code>A-z 0-9</code> & underscore chars "
+"without spaces."
+msgstr ""
+
+#: widgets/download-button.php:357 widgets/email-widget.php:374
+#: widgets/full-link-image-box-widget.php:572
+#: widgets/full-link-image-box-widget.php:958 widgets/icon-toggle.php:216
+#: widgets/link-button-widget.php:459 widgets/messenger-widget.php:337
+#: widgets/phone-widget.php:346 widgets/sms-widget.php:362
+#: widgets/waze-widget.php:339 widgets/whatsapp-widget.php:356
+msgid "Normal"
+msgstr ""
+
+#: widgets/download-button.php:364 widgets/download-button.php:400
+#: widgets/link-button-widget.php:466 widgets/link-button-widget.php:502
+msgid "Text Color"
+msgstr ""
+
+#: widgets/download-button.php:376 widgets/download-button.php:411
+#: widgets/link-button-widget.php:478 widgets/link-button-widget.php:513
+msgid "Background Color"
+msgstr ""
+
+#: widgets/download-button.php:393 widgets/email-widget.php:416
+#: widgets/full-link-image-box-widget.php:623
+#: widgets/full-link-image-box-widget.php:1024 widgets/icon-toggle.php:258
+#: widgets/link-button-widget.php:495 widgets/messenger-widget.php:379
+#: widgets/phone-widget.php:388 widgets/sms-widget.php:404
+#: widgets/waze-widget.php:381 widgets/whatsapp-widget.php:398
+msgid "Hover"
+msgstr ""
+
+#: widgets/email-widget.php:109 widgets/email-widget.php:570
+#: widgets/full-link-image-box-widget.php:109
+#: widgets/full-link-image-box-widget.php:1073 widgets/messenger-widget.php:109
+#: widgets/messenger-widget.php:533 widgets/phone-widget.php:115
+#: widgets/phone-widget.php:542 widgets/sms-widget.php:109
+#: widgets/sms-widget.php:557 widgets/waze-widget.php:109
+#: widgets/waze-widget.php:535 widgets/whatsapp-widget.php:109
+#: widgets/whatsapp-widget.php:552
+msgid "Content"
+msgstr ""
+
+#: widgets/email-widget.php:137 widgets/full-link-image-box-widget.php:149
+#: widgets/icon-toggle.php:138 widgets/messenger-widget.php:133
+#: widgets/phone-widget.php:142 widgets/sms-widget.php:141
+#: widgets/waze-widget.php:135 widgets/whatsapp-widget.php:133
+msgid "Stacked"
+msgstr ""
+
+#: widgets/email-widget.php:138 widgets/full-link-image-box-widget.php:150
+#: widgets/icon-toggle.php:139 widgets/messenger-widget.php:134
+#: widgets/phone-widget.php:143 widgets/sms-widget.php:142
+#: widgets/waze-widget.php:136 widgets/whatsapp-widget.php:134
+msgid "Framed"
+msgstr ""
+
+#: widgets/email-widget.php:177 widgets/email-widget.php:610
+#: widgets/full-link-image-box-widget.php:195
+#: widgets/full-link-image-box-widget.php:256
+#: widgets/full-link-image-box-widget.php:1113 widgets/messenger-widget.php:173
+#: widgets/messenger-widget.php:573 widgets/phone-widget.php:182
+#: widgets/phone-widget.php:582 widgets/sms-widget.php:181
+#: widgets/sms-widget.php:597 widgets/waze-widget.php:175
+#: widgets/waze-widget.php:575 widgets/whatsapp-widget.php:173
+#: widgets/whatsapp-widget.php:592
+msgid "Top"
+msgstr ""
+
+#: widgets/email-widget.php:196 widgets/full-link-image-box-widget.php:277
+#: widgets/messenger-widget.php:192 widgets/phone-widget.php:201
+#: widgets/sms-widget.php:200 widgets/waze-widget.php:194
+#: widgets/whatsapp-widget.php:192
+msgid "Show Title"
+msgstr ""
+
+#: widgets/email-widget.php:198 widgets/email-widget.php:256
+#: widgets/email-widget.php:298 widgets/full-link-image-box-widget.php:279
+#: widgets/full-link-image-box-widget.php:330
+#: widgets/full-link-image-box-widget.php:370 widgets/messenger-widget.php:194
+#: widgets/messenger-widget.php:252 widgets/messenger-widget.php:294
+#: widgets/phone-widget.php:203 widgets/phone-widget.php:261
+#: widgets/phone-widget.php:303 widgets/sms-widget.php:202
+#: widgets/sms-widget.php:260 widgets/sms-widget.php:302
+#: widgets/waze-widget.php:196 widgets/waze-widget.php:254
+#: widgets/waze-widget.php:296 widgets/whatsapp-widget.php:194
+#: widgets/whatsapp-widget.php:252 widgets/whatsapp-widget.php:294
+msgid "Show"
+msgstr ""
+
+#: widgets/email-widget.php:199 widgets/email-widget.php:257
+#: widgets/email-widget.php:299 widgets/full-link-image-box-widget.php:280
+#: widgets/full-link-image-box-widget.php:331
+#: widgets/full-link-image-box-widget.php:371 widgets/messenger-widget.php:195
+#: widgets/messenger-widget.php:253 widgets/messenger-widget.php:295
+#: widgets/phone-widget.php:204 widgets/phone-widget.php:262
+#: widgets/phone-widget.php:304 widgets/sms-widget.php:203
+#: widgets/sms-widget.php:261 widgets/sms-widget.php:303
+#: widgets/waze-widget.php:197 widgets/waze-widget.php:255
+#: widgets/waze-widget.php:297 widgets/whatsapp-widget.php:195
+#: widgets/whatsapp-widget.php:253 widgets/whatsapp-widget.php:295
+msgid "Hide"
+msgstr ""
+
+#: widgets/email-widget.php:207 widgets/email-widget.php:622
+#: widgets/full-link-image-box-widget.php:290
+#: widgets/full-link-image-box-widget.php:1125 widgets/messenger-widget.php:203
+#: widgets/messenger-widget.php:585 widgets/phone-widget.php:212
+#: widgets/phone-widget.php:594 widgets/sms-widget.php:211
+#: widgets/sms-widget.php:609 widgets/waze-widget.php:205
+#: widgets/waze-widget.php:587 widgets/whatsapp-widget.php:203
+#: widgets/whatsapp-widget.php:604
+msgid "Title"
+msgstr ""
+
+#: widgets/email-widget.php:212 widgets/full-link-image-box-widget.php:298
+#: widgets/messenger-widget.php:208 widgets/phone-widget.php:217
+#: widgets/sms-widget.php:216 widgets/waze-widget.php:210
+#: widgets/whatsapp-widget.php:208
+msgid "This is the heading"
+msgstr ""
+
+#: widgets/email-widget.php:213 widgets/full-link-image-box-widget.php:299
+#: widgets/messenger-widget.php:209 widgets/phone-widget.php:218
+#: widgets/sms-widget.php:217 widgets/waze-widget.php:211
+#: widgets/whatsapp-widget.php:209
+msgid "Enter your title"
+msgstr ""
+
+#: widgets/email-widget.php:232 widgets/full-link-image-box-widget.php:306
+#: widgets/messenger-widget.php:228 widgets/phone-widget.php:237
+#: widgets/sms-widget.php:236 widgets/waze-widget.php:230
+#: widgets/whatsapp-widget.php:228
+msgid "Title HTML Tag"
+msgstr ""
+
+#: widgets/email-widget.php:254 widgets/full-link-image-box-widget.php:328
+#: widgets/messenger-widget.php:250 widgets/phone-widget.php:259
+#: widgets/sms-widget.php:258 widgets/waze-widget.php:252
+#: widgets/whatsapp-widget.php:250
+msgid "Show Description"
+msgstr ""
+
+#: widgets/email-widget.php:269 widgets/full-link-image-box-widget.php:348
+#: widgets/messenger-widget.php:265 widgets/phone-widget.php:274
+#: widgets/sms-widget.php:273 widgets/waze-widget.php:267
+#: widgets/whatsapp-widget.php:265
+msgid ""
+"Click edit button to change this text. Lorem ipsum dolor sit amet, "
+"consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, "
+"pulvinar dapibus leo."
+msgstr ""
+
+#: widgets/email-widget.php:270 widgets/full-link-image-box-widget.php:349
+#: widgets/messenger-widget.php:266 widgets/phone-widget.php:275
+#: widgets/sms-widget.php:274 widgets/waze-widget.php:268
+#: widgets/whatsapp-widget.php:266
+msgid "Enter your description"
+msgstr ""
+
+#: widgets/email-widget.php:290
+msgid "Email Settings"
+msgstr ""
+
+#: widgets/email-widget.php:296 widgets/full-link-image-box-widget.php:368
+#: widgets/messenger-widget.php:292 widgets/phone-widget.php:301
+#: widgets/sms-widget.php:300 widgets/waze-widget.php:294
+#: widgets/whatsapp-widget.php:292
+msgid "Full Widget Link"
+msgstr ""
+
+#: widgets/email-widget.php:524 widgets/full-link-image-box-widget.php:752
+#: widgets/icon-toggle.php:343 widgets/messenger-widget.php:487
+#: widgets/phone-widget.php:496 widgets/sms-widget.php:512
+#: widgets/waze-widget.php:489 widgets/whatsapp-widget.php:506
+msgid "Rotate"
+msgstr ""
+
+#: widgets/email-widget.php:539 widgets/full-link-image-box-widget.php:770
+#: widgets/icon-toggle.php:358 widgets/messenger-widget.php:502
+#: widgets/phone-widget.php:511 widgets/sms-widget.php:527
+#: widgets/waze-widget.php:504 widgets/whatsapp-widget.php:521
+msgid "Border Width"
+msgstr ""
+
+#: widgets/email-widget.php:607 widgets/full-link-image-box-widget.php:1110
+#: widgets/messenger-widget.php:570 widgets/phone-widget.php:579
+#: widgets/sms-widget.php:594 widgets/waze-widget.php:572
+#: widgets/whatsapp-widget.php:589
+msgid "Vertical Alignment"
+msgstr ""
+
+#: widgets/email-widget.php:611 widgets/full-link-image-box-widget.php:1114
+#: widgets/messenger-widget.php:574 widgets/phone-widget.php:583
+#: widgets/sms-widget.php:598 widgets/waze-widget.php:576
+#: widgets/whatsapp-widget.php:593
+msgid "Middle"
+msgstr ""
+
+#: widgets/email-widget.php:612 widgets/full-link-image-box-widget.php:1115
+#: widgets/messenger-widget.php:575 widgets/phone-widget.php:584
+#: widgets/sms-widget.php:599 widgets/waze-widget.php:577
+#: widgets/whatsapp-widget.php:594
+msgid "Bottom"
+msgstr ""
+
+#: widgets/email-widget.php:673 widgets/full-link-image-box-widget.php:1176
+#: widgets/messenger-widget.php:636 widgets/phone-widget.php:645
+#: widgets/sms-widget.php:660 widgets/waze-widget.php:638
+#: widgets/whatsapp-widget.php:655
+msgid "Description"
+msgstr ""
+
+#: widgets/full-link-image-box-widget.php:54
+msgid "Full Link Icon Box "
+msgstr ""
+
+#: widgets/full-link-image-box-widget.php:115
+msgid "ICON \\ IMAGE"
+msgstr ""
+
+#: widgets/full-link-image-box-widget.php:118
+#: widgets/full-link-image-box-widget.php:809
+msgid "Image"
+msgstr ""
+
+#: widgets/full-link-image-box-widget.php:219
+msgid "Choose Image"
+msgstr ""
+
+#: widgets/full-link-image-box-widget.php:247
+msgid "Image Position"
+msgstr ""
+
+#: widgets/full-link-image-box-widget.php:362
+msgid "Link Settings"
+msgstr ""
+
+#: widgets/full-link-image-box-widget.php:846
+#: widgets/full-link-image-box-widget.php:878
+#: widgets/full-link-image-box-widget.php:911
+msgid "Width"
+msgstr ""
+
+#: widgets/full-link-image-box-widget.php:979
+#: widgets/full-link-image-box-widget.php:1045
+msgid "Opacity"
+msgstr ""
+
+#: widgets/full-link-image-box-widget.php:1000
+msgid "Transition Duration"
+msgstr ""
+
+#: widgets/icon-toggle.php:50
+msgid "Toggle Icon"
+msgstr ""
+
+#: widgets/icon-toggle.php:117
+msgid "Open Icon"
+msgstr ""
+
+#: widgets/icon-toggle.php:125
+msgid "Close Icon"
+msgstr ""
+
+#: widgets/link-button-widget.php:53
+msgid "Full Link Button"
+msgstr ""
+
+#: widgets/messenger-widget.php:54
+msgid "Messenger Widget "
+msgstr ""
+
+#: widgets/messenger-widget.php:286
+msgid "Messenger Settings"
+msgstr ""
+
+#: widgets/messenger-widget.php:304
+msgid "Your Messenger User Name"
+msgstr ""
+
+#: widgets/phone-widget.php:56
+msgid "Phone"
+msgstr ""
+
+#: widgets/phone-widget.php:295
+msgid "Phone Settings"
+msgstr ""
+
+#: widgets/sms-widget.php:294
+msgid "SMS Settings"
+msgstr ""
+
+#: widgets/waze-widget.php:288
+msgid "Waze Settings"
+msgstr ""
+
+#: widgets/whatsapp-widget.php:54
+msgid "Whatsapp"
+msgstr ""
+
+#: widgets/whatsapp-widget.php:286
+msgid "Whatsapp Settings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://contactwidgets.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add contact widgets to the popular free page builder Elementor."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WPex - Ronen Abutbul & Gilad Takoni"
+msgstr ""
